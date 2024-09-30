@@ -1,0 +1,16 @@
+{
+  "routes": [
+    "/AgregarCompradores",
+    "/AgregarProductos",
+    "/AgregarUsuarios",
+    "/AgregarVideojuegos",
+    "/Compradores",
+    "/Dashboard",
+    "/Login",
+    "/NoTienePermisos",
+    "/Productos",
+    "/Usuarios",
+    "/Ventas",
+    "/Videojuegos"
+  ]
+}
